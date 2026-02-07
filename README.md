@@ -21,7 +21,7 @@ Event-driven architectures, MLOps, Cloud deployment (AWS, Google Cloud, IBM Clou
 ### 📫 How to reach me
 
 - Email: alejandroenriquez@usp.br
-- LinkedIn: [linkedin.com/in/alejandro-enriquez-3611931b3](https://linkedin.com/in/alejandro-enriquez-3611931b3)
+- LinkedIn: [www.linkedin.com/in/alejandro-enríquez-3611931b3](www.linkedin.com/in/alejandro-enríquez-3611931b3)
 
 ---
 
@@ -30,39 +30,4 @@ Event-driven architectures, MLOps, Cloud deployment (AWS, Google Cloud, IBM Clou
 
 ---
 
-### **Paso 4: Resultado**
 
-Cuando alguien visite `github.com/enriquez13`, verá:
-```
-┌────────────────────────────────────────┐
-│  [Tu foto de perfil]                   │
-│  Alejandro Enriquez                    │
-│  enriquez13                            │
-│                                        │
-│  ┌──────────────────────────────────┐ │
-│  │ Hi, I'm Alejandro 👋             │ │
-│  │                                  │ │
-│  │ ML Engineer | AI Solutions...    │ │
-│  │                                  │ │
-│  │ I build production-ready...      │ │
-│  │ [todo tu README aquí]            │ │
-│  └──────────────────────────────────┘ │
-│                                        │
-│  [Tus repositorios abajo]              │
-└────────────────────────────────────────┘
-```
-
----
-
-## **EJEMPLO VISUAL:**
-
-**ANTES (sin README de perfil):**
-```
-github.com/enriquez13
-→ Solo muestra lista de repos
-```
-
-**DESPUÉS (con README):**
-```
-github.com/enriquez13
-→ Muestra README destacado + lista de repos
