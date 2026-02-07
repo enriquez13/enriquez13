@@ -26,6 +26,5 @@ Event-driven architectures, MLOps, Cloud deployment (AWS, Google Cloud, IBM Clou
 ---
 
 💡 *Open to opportunities in ML Engineering, AI Solutions Engineering, and Applied AI roles*
-```
 
 
