@@ -21,7 +21,7 @@ Event-driven architectures, MLOps, Cloud deployment (AWS, Google Cloud, IBM Clou
 ### 📫 How to reach me
 
 - Email: alejandroenriquez@usp.br
-- LinkedIn: (https://www.linkedin.com/in/alejandro-enr%C3%ADquez-3611931b3/)
+- LinkedIn: [alejandro-enríquez-3611931b3](https://www.linkedin.com/in/alejandro-enr%C3%ADquez-3611931b3/)
 
 ---
 
