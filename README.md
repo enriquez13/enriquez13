@@ -36,13 +36,5 @@ Data Warehousing, Apache Spark, Cloud Data Platforms (AWS, Google Cloud, IBM Clo
 💡 *Open to opportunities in Data Engineering and Analytics Engineering*
 ```
 
-### 📫 How to reach me
-
-- Email: alejandroenriquez@usp.br
-- LinkedIn: [alejandro-enríquez-3611931b3](https://www.linkedin.com/in/alejandro-enr%C3%ADquez-3611931b3/)
-
----
-
-💡 *Open to opportunities in ML Engineering, AI Solutions Engineering, and Applied AI roles*
 
 
