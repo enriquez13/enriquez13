@@ -1,22 +1,40 @@
 # Hi, I'm Alejandro 👋
 
-## ML Engineer | AI Solutions Specialist
+## Data Engineer | ETL Pipelines & Data Architecture
 
-I build production-ready AI systems using:
-- 🤖 Transformers & LLMs (DistilBERT, GPT, RAG)
-- 🐍 Python (PyTorch, TensorFlow, Scikit-learn)
-- ☁️ Cloud Infrastructure (AWS, Google Cloud)
-- 📊 End-to-end ML Pipelines
+I build scalable data solutions using:
+- 🐍 **Python** (Pandas, NumPy, Scikit-learn)
+- 🗄️ **SQL** for data transformation and analysis
+- 🔄 **ETL/ELT Pipelines** for data ingestion and processing
+- 📊 **Data Modeling** and warehousing concepts
+- ☁️ **Cloud-ready** architectures
 
 ### 🚀 Featured Projects
 
-- **[Executive Summary Agent](https://github.com/enriquez13/executive-summary-agent)** - AI-powered business intelligence using LLMs
-- **[Sentiment Analysis with Transformers](https://github.com/enriquez13/transformers-sentiment-analysis)** - Fine-tuned DistilBERT achieving 92% accuracy
-- **[Nuclear Calibration ML](https://github.com/enriquez13/nuclear-calibration-ml)** - Automated energy calibration using regression models
+- **[AI Sales Outreach](https://github.com/enriquez13/ai-sales-outreach)** - Automated data pipeline for sales prospecting ([Live Demo](https://ai-sales-outreach-sandy.vercel.app))
+- **[Nuclear Calibration ML](https://github.com/enriquez13/nuclear-calibration-ml)** - Automated ETL pipeline for experimental physics data
+- **[Tourism Clustering](https://github.com/enriquez13/tourist-routes-clustering-huila)** - Data analysis and segmentation pipeline
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🌱 Currently Learning
 
-Event-driven architectures, MLOps, Cloud deployment (AWS, Google Cloud, IBM Cloud)
+Data Warehousing, Apache Spark, Cloud Data Platforms (AWS, Google Cloud, IBM Cloud)
+
+### 📫 How to reach me
+
+- Email: alejo.enriquez@hotmail.com
+- LinkedIn: [linkedin.com/in/alejandro-enriquez-3611931b3](https://linkedin.com/in/alejandro-enriquez-3611931b3)
+
+---
+
+💡 *Open to opportunities in Data Engineering and Analytics Engineering*
+```
 
 ### 📫 How to reach me
 
